@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'akshay89350/devops'
-        IMAGE_TAG = 'v2.0'
+        IMAGE_TAG = 'v3.0'
     }
 
     stages {
